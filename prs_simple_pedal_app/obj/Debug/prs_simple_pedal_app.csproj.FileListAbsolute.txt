@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\prs_simple_pedal_app.exe.config
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\prs_simple_pedal_app.exe
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\prs_simple_pedal_app.pdb
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.Form1.resources
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.Properties.Resources.resources
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simp.F936251B.Up2Date
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.exe
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\obj\Debug\prs_simple_pedal_app.pdb
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\SharpDX.dll
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\SharpDX.pdb
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Usuário\source\repos\prs_simple_pedal_app\prs_simple_pedal_app\bin\Debug\SharpDX.DirectInput.xml
