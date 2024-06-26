@@ -8,8 +8,8 @@ Um projeto em desenvolvimento de um app para a firmware de um pedal simples.
 
 Softwares necessários para testar o app
 ```
-Firmware prs_simple_pedal_fw (Disponível em: https://github.com/vinicitadin/prs_simple_pedal_fw)
-Visual Studio
+* Firmware prs_simple_pedal_fw (Disponível em: https://github.com/vinicitadin/prs_simple_pedal_fw);
+* Visual Studio
 ```
 Leia o arquivo README do firmware para entender o funcionamento do mesmo e visualizar os dispositivos de hardware necessários.
 
